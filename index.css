@@ -1,0 +1,48 @@
+html {
+    background-color: #fafafa;
+}
+
+body {
+    font-family: 'Play', sans-serif;
+}
+
+.hicon {
+  margin-right: .5px !important
+}
+.iheader .icon {
+  --fa-primary-color: #00e7eb;
+  --fa-secondary-color: #009e6c;
+  --fa-secondary-opacity: .9
+}
+.iiheader .icon {
+  --fa-primary-color: #009e6c;
+  --fa-secondary-color: #00e7eb;
+  --fa-primary-opacity: .7;
+  --fa-secondary-opacity: .9
+}
+.DarkGrey {
+background-color: #2D3943;
+}
+.BlueButton {
+    background-color: #2B87D3;
+    color: #F0F0F0;
+}
+h2 {
+  display: block;
+  font-size: 3em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: #F0F0F0;
+  margin-left: 200px;
+}
+
+.list_div{
+    padding: 1rem;
+}
+
+.is_mobile p {
+    text-align: center;
+}
